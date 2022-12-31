@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 /doc
-/raw/Images_MG
-/raw/WGS84
+data/raw/Images_MG
+data/raw/WGS84
